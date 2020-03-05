@@ -16,6 +16,7 @@ module.exports = {
     "no-unreachable": "error",
     "quotes": [ "error", "double" ],
     "indent": [ "error", "tab" ],
-    "no-tabs": 0
+	"no-tabs": 0,
+	"vue/html-indent": [ "error", "tab"]
   }
 }
